@@ -3360,7 +3360,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/rtwo/proprietary/vendor/etc/display/qdcm_calib_data_mipi_mot_cmd_csot_1080p_dsc_667.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_mipi_mot_cmd_csot_1080p_dsc_667.json \
     vendor/motorola/rtwo/proprietary/vendor/etc/display/qdcm_calib_data_mipi_mot_cmd_tianma_1080p_667.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_mipi_mot_cmd_tianma_1080p_667.json \
     vendor/motorola/rtwo/proprietary/vendor/etc/display/qdcm_calib_data_mipi_mot_video_dummy_qhd.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_mipi_mot_video_dummy_qhd.json \
-    vendor/motorola/rtwo/proprietary/vendor/etc/dolby_vision.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/dolby_vision.cfg \
     vendor/motorola/rtwo/proprietary/vendor/etc/eva/facedetection/model3.dat:$(TARGET_COPY_OUT_VENDOR)/etc/eva/facedetection/model3.dat \
     vendor/motorola/rtwo/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-goodixservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-goodixservice.rc \
     vendor/motorola/rtwo/proprietary/vendor/etc/init/vendor.qti.camera.provider-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider-service_64.rc \
